@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dilan Madushanka</h1>
 <h3 align="center">A Software Engineering student of Institute of Software Engineering</h3>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dilanmadushan" alt="dilanmadushan" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/#1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1108" height="30" width="40" /></a>
